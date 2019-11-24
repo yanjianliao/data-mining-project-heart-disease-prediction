@@ -1,0 +1,6 @@
+# Ignore general mac files
+DS_Store
+
+# Ignore Jupyter generated Folder
+ipynb_checkpoints/
+.DS_Store
